@@ -56,5 +56,8 @@ GeniesComposerLoader.loadGeniesComposerIntoView(
    composerCallback = composerCallback
 )
 ```
+## Sample
+To get the sample running you first need to [apply for a partner account](https://geniesinc.github.io/#step-one-apply-for-a-partner-account) and get your API KEY.
+
 ## Example
-An example of the Genies composer integration can be found in [GeniesComposerActivity](https://github.com/geniesinc/android-composer-library/blob/master/sample/src/main/java/com/genies/sample/GeniesComposerActivity.kt)
+An example of the Genies composer integration can be found in [GeniesComposerActivity](https://github.com/geniesinc/android-avatar-creator/blob/master/sample/src/main/java/com/genies/sample/GeniesComposerActivity.kt)
