@@ -42,7 +42,7 @@ class GeniesComposerActivity : AppCompatActivity(R.layout.activity_composer) {
     }
 
     /**
-     * For more information about Compose Credentials see https://geniesinc.github.io/avatar_creator/#integration
+     * For more information about Composer Credentials see https://geniesinc.github.io/avatar_creator/#integration
      */
     private fun provideTestComposerCredentials() = ComposerCredentials(
         userId = "YOUR_USER_ID",
